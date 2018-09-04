@@ -1,0 +1,9 @@
+C:\Users\alina\Documents\Visual Studio 2015\Projects\ConversionTemperatura\ConversionTemperatura\bin\Debug\ConversionTemperatura.exe.config
+C:\Users\alina\Documents\Visual Studio 2015\Projects\ConversionTemperatura\ConversionTemperatura\bin\Debug\ConversionTemperatura.exe
+C:\Users\alina\Documents\Visual Studio 2015\Projects\ConversionTemperatura\ConversionTemperatura\bin\Debug\ConversionTemperatura.pdb
+C:\Users\alina\Documents\Visual Studio 2015\Projects\ConversionTemperatura\ConversionTemperatura\obj\Debug\ConversionTemperatura.csprojResolveAssemblyReference.cache
+C:\Users\alina\Documents\Visual Studio 2015\Projects\ConversionTemperatura\ConversionTemperatura\obj\Debug\ConversionTemperatura.Properties.Resources.resources
+C:\Users\alina\Documents\Visual Studio 2015\Projects\ConversionTemperatura\ConversionTemperatura\obj\Debug\ConversionTemperatura.csproj.GenerateResource.Cache
+C:\Users\alina\Documents\Visual Studio 2015\Projects\ConversionTemperatura\ConversionTemperatura\obj\Debug\ConversionTemperatura.exe
+C:\Users\alina\Documents\Visual Studio 2015\Projects\ConversionTemperatura\ConversionTemperatura\obj\Debug\ConversionTemperatura.pdb
+C:\Users\alina\Documents\Visual Studio 2015\Projects\ConversionTemperatura\ConversionTemperatura\obj\Debug\ConversionTemperatura.Form1.resources
