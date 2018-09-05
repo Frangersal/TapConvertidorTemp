@@ -50,9 +50,9 @@
             this.btAceptar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btAceptar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btAceptar.ForeColor = System.Drawing.Color.White;
-            this.btAceptar.Location = new System.Drawing.Point(165, 170);
+            this.btAceptar.Location = new System.Drawing.Point(172, 170);
             this.btAceptar.Name = "btAceptar";
-            this.btAceptar.Size = new System.Drawing.Size(207, 28);
+            this.btAceptar.Size = new System.Drawing.Size(200, 40);
             this.btAceptar.TabIndex = 2;
             this.btAceptar.Text = "Convertir";
             this.btAceptar.UseVisualStyleBackColor = false;
@@ -84,9 +84,9 @@
             // 
             // ctGradosF
             // 
-            this.ctGradosF.Location = new System.Drawing.Point(165, 134);
+            this.ctGradosF.Location = new System.Drawing.Point(172, 134);
             this.ctGradosF.Name = "ctGradosF";
-            this.ctGradosF.Size = new System.Drawing.Size(207, 20);
+            this.ctGradosF.Size = new System.Drawing.Size(200, 20);
             this.ctGradosF.TabIndex = 1;
             this.ctGradosF.Text = "32.00";
             this.ctGradosF.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
@@ -94,9 +94,9 @@
             // 
             // ctGradosC
             // 
-            this.ctGradosC.Location = new System.Drawing.Point(165, 91);
+            this.ctGradosC.Location = new System.Drawing.Point(172, 91);
             this.ctGradosC.Name = "ctGradosC";
-            this.ctGradosC.Size = new System.Drawing.Size(207, 20);
+            this.ctGradosC.Size = new System.Drawing.Size(200, 20);
             this.ctGradosC.TabIndex = 0;
             this.ctGradosC.Text = "0.00";
             this.ctGradosC.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
